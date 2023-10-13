@@ -1,8 +1,8 @@
 
 import fs from 'fs';
 import path from 'path';
-
-const dbFilePath = path.resolve(__dirname, 'db.json');
+/* const dbFilePath = path.resolve('/var/task/netlify/functions/your-function-name/db.json'); */
+const dbFilePath = path.resolve(__dirname, '../../../db.json');
 
 export const handler = async (event) => {
   try {
