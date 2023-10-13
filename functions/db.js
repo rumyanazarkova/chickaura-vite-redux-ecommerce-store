@@ -29,7 +29,7 @@ export const handler = async (event) => {
       statusCode: 200,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'https://chickaura.netlify.app', 
+        'Access-Control-Allow-Origin': 'https://main--chickaura.netlify.app', 
         'Access-Control-Allow-Methods': 'GET',
       },
       body: JSON.stringify(responseData),
@@ -40,7 +40,7 @@ export const handler = async (event) => {
       statusCode: 500,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'https://chickaura.netlify.app', 
+        'Access-Control-Allow-Origin': 'https://main--chickaura.netlify.app', 
         'Access-Control-Allow-Methods': 'GET',
       },
       body: JSON.stringify({ error: error.message }),
