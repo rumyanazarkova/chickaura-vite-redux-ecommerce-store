@@ -1,8 +1,17 @@
-# React + Vite
+# Chickaura
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chickaura is an e-commerce web application built with Vite and Redux, offering a seamless shopping experience. It integrates Auth0 for user authentication and Square for secure payment processing.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Authentication with Auth0**: Chickaura provides a secure and user-friendly authentication system powered by Auth0, allowing customers to create accounts and securely log in.
+
+- **Product Listings**: Browse through a wide range of products, view product details, and add items to your cart with ease.
+
+- **Shopping Cart**: Keep track of your selected items in a convenient shopping cart, where you can adjust quantities and proceed to checkout.
+
+- **Payment Processing with Square**: Chickaura offers secure payment processing through Square, ensuring a smooth and secure transaction experience.
+
+- **Responsive Design**: Chickaura is designed to provide an optimal viewing and shopping experience on various devices, from desktops to mobile phones.
+
+

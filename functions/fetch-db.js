@@ -1,12 +1,17 @@
-
 import fs from 'fs';
 import path from 'path';
-/* const dbFilePath = path.resolve('/var/task/netlify/functions/your-function-name/db.json'); */
-const dbFilePath = path.resolve(__dirname, '../../../db.json');
+ 
+const dbFilePath = path.resolve('db.json');
 
 export const handler = async (event) => {
   try {
-  
+    console.log(`Attempting to read from path: ${dbFilePath}`);
+    
+    // Check if the file exists at the specified path
+    if (!fs.existsSync(dbFilePath)) {
+      console.error(`File does not exist at path: ${dbFilePath}`);
+      throw new Error('File not found');
+    }
     const data = JSON.parse(await fs.promises.readFile(dbFilePath, 'utf8'));
     
     const { section, id } = event.queryStringParameters;
@@ -29,19 +34,19 @@ export const handler = async (event) => {
       statusCode: 200,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'https://chickaura.netlify.app', 
-        'Access-Control-Allow-Methods': 'GET',
+         'Access-Control-Allow-Origin': '*', 
+        'Access-Control-Allow-Methods': 'GET', 
       },
       body: JSON.stringify(responseData),
     };
   } catch (error) {
-    console.error(error);
+    console.error('eror',error);
     return {
       statusCode: 500,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'https://chickaura.netlify.app', 
-        'Access-Control-Allow-Methods': 'GET',
+         'Access-Control-Allow-Origin': '*', 
+        'Access-Control-Allow-Methods': 'GET', 
       },
       body: JSON.stringify({ error: error.message }),
     };
