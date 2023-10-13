@@ -1,0 +1,1436 @@
+{
+    "women": [
+        {
+            "id": 1,
+            "name": "Marine coat with wool blend",
+            "price": 8599,
+            "oldPrice": 12099,
+            "colors": {
+                "beige": "#ebd4c0",
+                "navy": "#27355b"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/8/2865P-08M-001-1-742266.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/8/2865P-08M-001-1-742266.jpg",
+                "https://static.reserved.com/media/catalog/product/2/8/2865P-08M-002-1-742266.jpg",
+                "https://static.reserved.com/media/catalog/product/2/8/2865P-59X-001-1-734867_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/8/2865P-59X-002-1-734867_1.jpg"
+            ],
+            "date": "2023-05-12"
+        },
+        {
+            "id": 2,
+            "name": "Openwork jumper",
+            "price": 2599,
+            "oldPrice": 4099,
+            "colors": {
+                "brownish green": "#47441f"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/7/5783V-78X-001-1-735726.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/7/5783V-78X-001-1-735726.jpg",
+                "https://static.reserved.com/media/catalog/product/5/7/5783V-78X-002-1-735726.jpg"
+            ],
+            "date": "2023-05-15"
+        },
+        {
+            "id": 3,
+            "name": "Ruffle mini skirt",
+            "price": 1999,
+            "colors": {
+                "black": "#000000",
+                "brownish green": "#47441f"
+            },
+            "category": "women",
+            "type":"Skirt",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/1/4/1462N-99X-030-1-742383.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/1/4/1462N-99X-030-1-742383.jpg",
+                "https://static.reserved.com/media/catalog/product/1/4/1462N-99X-010-1-737234_1.jpg",
+                "https://static.reserved.com/media/catalog/product/1/4/1462N-77X-001-1-728554.jpg",
+                "https://static.reserved.com/media/catalog/product/1/4/1462N-77X-002-1-728554.jpg"
+            ],
+            "date": "2023-05-15"
+        },
+        {
+            "id": 4,
+            "name": "Jacket with faux fur lining",
+            "price": 7999,
+            "colors": {
+                "beige": "#ebd4c0",
+                "black": "#000000",
+                "brown": "#81524b"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/6/2/6289V-80X-002-4-740782.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/6/2/6289V-80X-002-4-740782.jpg",
+                "https://static.reserved.com/media/catalog/product/6/2/6289V-99X-003-1-734518_5.jpg",
+                "https://static.reserved.com/media/catalog/product/6/2/6289V-89X-002-1-734521_1.jpg"
+            ],
+            "date": "2023-05-18"
+        },
+        {
+            "id": 5,
+            "name": "Openwork blouse",
+            "price": 3599,
+            "colors": {
+                "black": "#000000",
+                "white": "#f7f7f7"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/6/3/6365V-99X-003-1-736080.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/6/3/6365V-99X-003-1-736080.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6365V-99X-010-1-735054_3.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6365V-01X-002-1-735743_1.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6365V-01X-001-1-735743_1.jpg"
+            ],
+            "date": "17-06-2023"
+        },
+        {
+            "id": 6,
+            "name": "Fuzzy jersey jumper",
+            "price": 3599,
+            "colors": {
+                "beige": "#ebd4c0"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/9/7906X-08X-001-2-740261_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/9/7906X-08X-001-2-740261_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/9/7906X-08X-002-2-740261_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/9/7906X-08X-010-2-737319_1.jpg"
+            ],
+            "date": "2023-06-01"
+        },
+        {
+            "id": 7,
+            "name": "Decorative knit jumper",
+            "price": 2599,
+            "colors": {
+                "pink": "#f6dce2"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/8/7876B-39M-010-1-737575_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/8/7876B-39M-010-1-737575_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/8/7876B-39M-011-1-737575_1.jpg"
+            ],
+            "date": "2023-06-01"
+        },
+        {
+            "id": 8,
+            "name": "Leggings with decorative stitching",
+            "price": 1999,
+            "oldPrice": 2999,
+            "colors": {
+                "black": "#000000",
+                "brownish green": "#47441f"
+            },
+            "category": "women",
+            "type":"Bottom",
+            "size": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/8/7896X-99X-002-1-740253_3.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/8/7896X-99X-002-1-740253_3.jpg",
+                "https://static.reserved.com/media/catalog/product/7/8/7896X-99X-010-1-739245_6.jpg",
+                "https://static.reserved.com/media/catalog/product/7/8/7896X-87X-001-1-740251_3.jpg",
+                "https://static.reserved.com/media/catalog/product/7/8/7896X-87X-002-1-740251_3.jpg"
+            ],
+            "date": "2023-06-25"
+        },
+        {
+            "id": 9,
+            "name": "Straight trousers with stitching",
+            "price": 3999,
+            "oldPrice": 5999,
+            "colors": {
+                "beige": "#ebd4c0"
+            },
+            "category": "women",
+            "type":"Bottom",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/8/7897X-08X-002-2-740254.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/8/7897X-08X-002-2-740254.jpg",
+                "https://static.reserved.com/media/catalog/product/7/8/7897X-08X-001-2-740254.jpg",
+                "https://static.reserved.com/media/catalog/product/7/8/7897X-08X-010-2-739244.jpg"
+            ],
+            "date": "2023-06-30"
+        },
+        {
+            "id": 10,
+            "name": "Decorative knit jumper",
+            "price": 4999,
+            "colors": {
+                "cream": "#eef0e9"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/9/7904X-01X-001-2-740257_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/9/7904X-01X-001-2-740257_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/9/7904X-01X-010-2-738325_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/9/7904X-01X-011-2-738325_1.jpg"
+            ],
+            "date": "2023-07-01"
+        },
+        {
+            "id": 11,
+            "name": "Maxi dress with frills",
+            "price": 4599,
+            "colors": {
+                "black": "#000000",
+                "brownish green": "#47441f"
+            },
+            "category": "women",
+            "type":"Dress",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/5/5515P-99X-003-1-735725_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/5/5515P-99X-003-1-735725_2.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5515P-99X-002-1-735725_2.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5515P-99X-010-1-738794_1.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5515P-78X-004-1-736401_3.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5515P-78X-001-1-736401_3.jpg"
+            ],
+            "date": "2023-07-03"
+        },
+        {
+            "id": 12,
+            "name": "Single-breasted blazer",
+            "price": 4599,
+            "oldPrice": 6999,
+            "colors": {
+                "brownish green": "#47441f"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/9/7936X-87X-001-1-740270_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/9/7936X-87X-001-1-740270_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/9/7936X-87X-002-1-740270_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/9/7936X-87X-003-1-740270_1.jpg"
+            ],
+            "date": "2023-06-20"
+        },
+        {
+            "id": 13,
+            "name": "Top with a standing collar",
+            "price": 2599,
+            "oldPrice": 6999,
+            "colors": {
+                "black":"#000000"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/9/6/9679H-99X-002-1-736951_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/9/6/9679H-99X-002-1-736951_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/6/9679H-99X-001-1-736951_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/6/9679H-99X-010-1-732845_5.jpg"
+            ],
+            "date": "2023-06-26"
+        },
+        {
+            "id": 14,
+            "name": "Fitted midi skirt",
+            "price": 1599,
+            "oldPrice": 3999,
+            "colors": {
+               "light grey":"#c8cfce"
+            },
+            "category": "women",
+            "type":"Skirt",
+            "size": [
+                "S",
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/6/5684V-85M-001-1-731134_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/6/5684V-85M-001-1-731134_1.jpg",
+                "https://static.reserved.com/media/catalog/product/5/6/5684V-85M-002-1-731134_1.jpg",
+                "https://static.reserved.com/media/catalog/product/5/6/5684V-85M-010-1-737940.jpg"
+            ],
+            "date": "2023-07-02"
+        },      
+        {
+            "id": 15,
+            "name": "Sweatshirt with shirt details",
+            "price": 2099,
+            "oldPrice": 2799,
+            "colors": {
+               "dusty green":"#818473",
+               "navy":"#27355b"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/9/2/9295B-81X-001-1-739035_4.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/9/2/9295B-81X-001-1-739035_4.jpg",
+                "https://static.reserved.com/media/catalog/product/9/2/9295B-81X-002-1-739035_4.jpg",
+                "https://static.reserved.com/media/catalog/product/9/2/9295B-59X-003-1-734115_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/2/9295B-59X-001-1-734115_1.jpg"
+            ],
+            "date": "2023-07-05"
+        },
+        {
+            "id": 16,
+            "name": "Oversized shirt",
+            "price": 2599,
+            "colors": {
+              "brownish green":"#47441f",
+              "blue":"#1a9bdd",
+              "pink":"#f6dce2"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/6/3/6381V-91X-002-1-739524.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/6/3/6381V-91X-002-1-739524.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6381V-91X-003-1-739524.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6381V-50X-001-1-727538_5.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6381V-50X-002-1-727538_5.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6381V-30X-001-1-742696.jpg"
+            ],
+            "date": "2023-07-01"
+        },
+        {
+            "id": 17,
+            "name": "Pleated skirt with belt",
+            "price": 2799,
+            "colors": {
+              "navy":"#27355b",
+              "black":"#000000"
+            },
+            "category": "women",
+            "type":"Skirt",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/5/5504B-59X-001-1-744002.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/5/5504B-59X-001-1-744002.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5504B-59X-002-1-744002.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5504B-99X-001-1-741321.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5504B-99X-002-1-741321.jpg"
+            ],
+            "date": "2023-07-05"
+        },
+        {
+            "id": 18,
+            "name": "Faux shearling jacket",
+            "price": 6999,
+            "colors": {
+             "beige":"#ebd4c0"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/6/3/6318V-08X-001-2-735737.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/6/3/6318V-08X-001-2-735737.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6318V-08X-002-2-735737.jpg",
+                "https://static.reserved.com/media/catalog/product/6/3/6318V-08X-012-2-732853_1.jpg"
+            ],
+            "date": "2023-07-05"
+        },
+        {
+            "id": 19,
+            "name": "Maxi skirt with belt",
+            "price": 2999,
+            "colors": {
+             "beige":"#ebd4c0",
+             "black":"#000000"
+            },
+            "category": "women",
+            "type":"Skirt",
+            "size": [
+                "S",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/6/5646B-08X-001-1-739157_4.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/6/5646B-08X-001-1-739157_4.jpg",
+                "https://static.reserved.com/media/catalog/product/5/6/5646B-08X-003-1-739157_4.jpg",
+                "https://static.reserved.com/media/catalog/product/5/6/5646B-99X-001-1-736076_2.jpg",
+                "https://static.reserved.com/media/catalog/product/5/6/5646B-99X-010-1-735552_5.jpg"
+            ],
+            "date": "2023-07-08"
+        },
+        {
+            "id": 20,
+            "name": "Fitted midi skirt",
+            "price": 1599,
+            "colors": {
+             "beige":"#ebd4c0",
+             "black":"#000000",
+             "teal green":"#187273",
+             "navy":"#27355b"
+            },
+            "category": "women",
+            "type":"Skirt",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/0/9/0960I-08X-001-1-727226.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/0/9/0960I-08X-001-1-727226.jpg",
+                "https://static.reserved.com/media/catalog/product/0/9/0960I-08X-002-1-727226.jpg",
+                "https://static.reserved.com/media/catalog/product/0/9/0960I-99X-002-1-726545.jpg",
+                "https://static.reserved.com/media/catalog/product/0/9/0960I-59X-001-1-720075_15.jpg",
+                "https://static.reserved.com/media/catalog/product/0/9/0960I-67X-001-1-720076_15.jpg"
+            ],
+            "date": "2023-07-18"
+        },
+        {
+            "id": 21,
+            "name": "Skort",
+            "price": 1999,
+            "colors": { 
+             "navy":"#27355b",
+             "black":"#000000"
+            },
+            "category": "women",
+            "type":"Bottom",
+            "size": [
+                "S"
+                
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/0/5044V-59X-001-1-734544_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/0/5044V-59X-001-1-734544_1.jpg",
+                "https://static.reserved.com/media/catalog/product/5/0/5044V-59X-002-1-734544_1.jpg",
+                "https://static.reserved.com/media/catalog/product/5/0/5044V-99X-010-1-721207_1.jpg",
+                "https://static.reserved.com/media/catalog/product/5/0/5044V-99X-011-1-721207_1.jpg"
+            ],
+            "date": "2023-09-18"
+        },
+        {
+            "id": 22,
+            "name": "Printed sweatshirt",
+            "price": 2999,
+            "colors": { 
+            "dark grey":"#39333a",
+            "light grey":"#c8cfce"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+                "S",
+                "M"
+            
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/Y/A/YA377-09X-001-1-739017_3.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/Y/A/YA377-09X-001-1-739017_3.jpg",
+                "https://static.reserved.com/media/catalog/product/Y/A/YA377-09X-002-1-739017_3.jpg",
+                "https://static.reserved.com/media/catalog/product/Y/A/YA377-90X-001-1-742706.jpg",
+                "https://static.reserved.com/media/catalog/product/Y/A/YA377-90X-002-1-742706.jpg"
+            ],
+            "date": "2023-07-21"
+        },
+        {
+            "id": 23,
+            "name": "Denim mini skirt",
+            "price": 1999,
+            "colors": { 
+            "navy":"#27355b"
+            },
+            "category": "women",
+            "type":"Skirt",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/6/7/6775V-59J-002-1-726957.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/6/7/6775V-59J-002-1-726957.jpg",
+                "https://static.reserved.com/media/catalog/product/6/7/6775V-59J-001-1-726957.jpg",
+                "https://static.reserved.com/media/catalog/product/6/7/6775V-59J-010-1-721683_4.jpg"
+            ],
+            "date": "2023-07-10"
+        },
+        {
+            "id": 24,
+            "name": "Herringbone pattern shorts",
+            "price": 1999,
+            "oldPrice":3999,
+            "colors": { 
+           "dark grey":"#39333a"
+            },
+            "category": "women",
+            "type":"Bottom",
+            "size": [
+              
+                "M",
+                "L",
+                "XL"
+            
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/0/8/0870P-85X-001-1-735885_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/0/8/0870P-85X-001-1-735885_2.jpg",
+                "https://static.reserved.com/media/catalog/product/0/8/0870P-85X-002-1-735885_2.jpg",
+                "https://static.reserved.com/media/catalog/product/0/8/0870P-85X-001-1-735898_1.jpg"
+            ],
+            "date": "2023-07-09"
+        },
+        {
+            "id": 25,
+            "name": "Sweatshirt with decorative appliqué",
+            "price": 2799,
+         
+            "colors": { 
+           "beige":"#ebd4c0",
+           "pink":"#f6dce2"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"
+            
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/2/5259V-01X-001-1-718855_15.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/2/5259V-01X-001-1-718855_15.jpg",
+                "https://static.reserved.com/media/catalog/product/5/2/5259V-01X-002-1-718855_15.jpg",
+                "https://static.reserved.com/media/catalog/product/5/2/5259V-08X-001-1-718858_14.jpg",
+                "https://static.reserved.com/media/catalog/product/5/2/5259V-08X-003-1-718858_14.jpg"
+            ],
+            "date": "2023-07-05"
+        },
+        {
+            "id": 26,
+            "name": "Hoodie with embroidery detailing",
+            "price": 1999,
+         
+            "colors": { 
+        "light grey":"#c8cfce",
+        "navy":"#27355b"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"
+            
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/9/3/9312B-09M-001-1-726948.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/9/3/9312B-09M-001-1-726948.jpg",
+                "https://static.reserved.com/media/catalog/product/9/3/9312B-09M-010-1-724428_5.jpg",
+                "https://static.reserved.com/media/catalog/product/9/3/9312B-59X-001-1-725561_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/3/9312B-59X-010-1-743035.jpg"
+            ],
+            "date": "2023-07-05"
+        },
+        {
+            "id": 27,
+            "name": "Blouse with collar",
+            "price": 1999,
+           "oldPrice":2699,
+            "colors": { 
+        "dark grey":"#39333a",
+        "cream":"#eef0e9"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"
+            
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/1/6/1681X-90X-002-1-729720_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/1/6/1681X-90X-002-1-729720_1.jpg",
+                "https://static.reserved.com/media/catalog/product/1/6/1681X-90X-001-1-729720_1.jpg",
+                "https://static.reserved.com/media/catalog/product/1/6/1681X-01X-001-1-736385.jpg",
+                "https://static.reserved.com/media/catalog/product/1/6/1681X-01X-010-1-735547_2.jpg"
+            ],
+            "date": "2023-07-12"
+        },
+        {
+            "id": 28,
+            "name": "Coat with tie waist belt",
+            "price": 7999,
+            "colors": { 
+          
+          "beige":"#ebd4c0",
+          "black":"#000000",
+          "light grey":"#c8cfce"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"           
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/9/9/9997H-74M-002-1-728425_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/9/9/9997H-74M-002-1-728425_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/9/9997H-74M-001-1-728425_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/9/9997H-09M-001-1-728424_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/9/9997H-09M-002-1-728424_1.jpg",
+                "https://static.reserved.com/media/catalog/product/9/9/9997H-99X-002-1-736435_2.jpg",
+                "https://static.reserved.com/media/catalog/product/9/9/9997H-99X-003-1-736435_2.jpg"
+            ],
+            "date": "2023-07-15"
+        },
+        {
+            "id": 29,
+            "name": "Plain top",
+            "price": 999,
+            "colors": { 
+        "dark grey":"#39333a",
+          "beige":"#ebd4c0",
+          "black":"#000000",
+          "navy":"#27355b",
+          "teal green":"#187273"
+            },
+            "category": "women",
+            "type":"Top",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"           
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/3/2/3246G-90X-001-1-716249_22.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/3/2/3246G-90X-001-1-716249_22.jpg",
+                "https://static.reserved.com/media/catalog/product/3/2/3246G-02X-001-1-709275_14.jpg",
+                "https://static.reserved.com/media/catalog/product/3/2/3246G-99X-001-1-709276_18.jpg",
+                "https://static.reserved.com/media/catalog/product/3/2/3246G-59X-010-1-712846.jpg",
+                "https://static.reserved.com/media/catalog/product/3/2/3246G-67X-010-1-712804.jpg"
+            ],
+            "date": "2023-07-07"
+        },
+        {
+            "id": 30,
+            "name": "Wool blend jacket",
+            "price": 7999,
+            "colors": { 
+          "black":"#000000",
+          "beige":"#ebd4c0"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"           
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/9/4910V-99X-001-1-732812_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/9/4910V-99X-001-1-732812_2.jpg",
+                "https://static.reserved.com/media/catalog/product/4/9/4910V-99X-002-1-732812_2.jpg",
+                "https://static.reserved.com/media/catalog/product/4/9/4910V-12M-001-1-734508_1.jpg",
+                "https://static.reserved.com/media/catalog/product/4/9/4910V-12M-002-1-734508_1.jpg"
+            ],
+            "date": "2023-07-13"
+        },
+        {
+            "id": 31,
+            "name": "Coat with stand up collar",
+            "price": 4599,
+            "colors": { 
+        
+          "beige":"#ebd4c0",
+          "brown":"#81524b",
+          "light grey":"#c8cfce"
+            },
+            "category": "women",
+            "type":"Coat",
+            "size": [
+               "S",
+                "M",
+                "L",
+                "XL"           
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/3/2312C-74M-001-1-727249_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/3/2312C-74M-001-1-727249_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/3/2312C-74M-003-1-727249_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/3/2312C-01M-003-1-734503_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/3/2312C-01M-002-1-734503_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/3/2312C-09M-003-1-734513.jpg"
+            ],
+            "date": "2023-07-15"
+        }
+        
+    ],
+    "men": [
+        {
+            "id": 100,
+            "name": "Hoodie with embroidery",
+            "price": 2599,
+            "oldPrice": 3299,
+            "colors": {
+                "brown": "#81524b",
+                "dusty green": "#818473",
+                "cream": "#eef0e9"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/6/4648C-88X-001-1-727870_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/6/4648C-88X-001-1-727870_1.jpg",
+                "https://static.reserved.com/media/catalog/product/4/6/4648C-88X-002-1-727870_1.jpg",
+                "https://static.reserved.com/media/catalog/product/4/6/4648C-88X-010-1-730228.jpg"
+            ],
+            "date": "2023-05-10"
+        },
+        {
+            "id": 101,
+            "name": "Plain cotton rich sweatshirt",
+            "price": 2299,
+            "oldPrice": 3099,
+            "colors": {
+                "black": "#000000",
+                "light grey": "#c8cfce",
+                "beige": "#ebd4c0",
+                "dark grey": "#39333a"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/6/4642C-99X-001-1-733624_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/6/4642C-99X-001-1-733624_2.jpg",
+                "https://static.reserved.com/media/catalog/product/4/6/4642C-09M-003-1-722618.jpg",
+                "https://static.reserved.com/media/catalog/product/4/6/4642C-08X-002-1-733623_1.jpg",
+                "https://static.reserved.com/media/catalog/product/4/6/4642C-90X-003-1-731464_1.jpg"
+            ],
+            "date": "2023-05-10"
+        },
+        {
+            "id": 102,
+            "name": "Quilted vest",
+            "price": 3999,
+            "colors": {
+                "black": "#000000",
+                "burgundy": "#9b3530"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/6/2683C-83X-001-1-730545_3.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/6/2683C-83X-001-1-730545_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/6/2683C-83X-002-1-730545_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/6/2683C-83X-010-1-745635.jpg"
+            ],
+            "date": "2023-05-10"
+        },
+        {
+            "id": 103,
+            "name": "Faux leather biker jacket",
+            "price": 5999,
+            "colors": {
+                "black": "#000000"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/5/2597C-99X-003-1-732764_7.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/5/2597C-99X-003-1-732764_7.jpg",
+                "https://static.reserved.com/media/catalog/product/2/5/2597C-99X-001-1-732764_7.jpg",
+                "https://static.reserved.com/media/catalog/product/2/5/2597C-99X-002-1-732764_7.jpg"
+            ],
+            "date": "2023-06-15"
+        },
+        {
+            "id": 104,
+            "name": "Jacket with stand up collar",
+            "price": 4999,
+            "colors": {
+                "black": "#000000",
+                "dark grey": "#39333a",
+                "brown": "#81524b"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/3/6/3696C-99X-001-1-732768_7.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/3/6/3696C-99X-001-1-732768_7.jpg",
+                "https://static.reserved.com/media/catalog/product/3/6/3696C-90M-001-1-733694_1.jpg",
+                "https://static.reserved.com/media/catalog/product/3/6/3696C-88X-001-1-732767_5.jpg"
+            ],
+            "date": "2023-06-16"
+        },
+        {
+            "id": 105,
+            "name": "Quilted jacket",
+            "price": 3999,
+            "oldPrice": 5999,
+            "colors": {
+                "beige": "#ebd4c0",
+                "black": "#000000",
+                "teal green": "#187273",
+                "navy": "#27355b"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/5/2599C-08X-001-1-732765_3.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/5/2599C-08X-001-1-732765_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/5/2599C-99X-003-1-732766_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/5/2599C-67X-001-1-727836_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/5/2599C-59X-010-1-725674_2.jpg"
+            ],
+            "date": "2023-06-20"
+        },
+        {
+            "id": 106,
+            "name": "Hooded parka",
+            "price": 7999,
+            "colors": {
+                "black": "#000000"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/8/1/8159H-99X-001-1-733632_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/8/1/8159H-99X-001-1-733632_1.jpg",
+                "https://static.reserved.com/media/catalog/product/8/1/8159H-99X-002-1-733632_1.jpg",
+                "https://static.reserved.com/media/catalog/product/8/1/8159H-99X-004-1-733632_1.jpg"
+            ],
+            "date": "2023-06-21"
+        },
+        {
+            "id": 107,
+            "name": "Regular fit T-shirt with print",
+            "price": 1599,
+            "colors": {
+                "black": "#000000",
+                "cream": "#eef0e9"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/3/7381H-99X-001-1-725188_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/3/7381H-99X-001-1-725188_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/3/7381H-99X-010-1-731423.jpg",
+                "https://static.reserved.com/media/catalog/product/7/3/7381H-01X-010-1-718744_3.jpg"
+            ],
+            "date": "2023-06-21"
+        },
+        {
+            "id": 108,
+            "name": "David Bowie T-shirt",
+            "price": 1299,
+            "oldPrice": 1799,
+            "colors": {
+                "black": "#000000"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/7/7732H-99X-001-1-725189_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/7/7732H-99X-001-1-725189_1.jpg",
+                "https://static.reserved.com/media/catalog/product/7/7/7732H-99X-010-1-731752.jpg",
+                "https://static.reserved.com/media/catalog/product/7/7/7732H-99X-011-1-731752.jpg"
+            ],
+            "date": "2023-06-23"
+        },
+        {
+            "id": 109,
+            "name": "Oversized T-shirt",
+            "price": 999,
+            "oldPrice": 1299,
+            "colors": {
+                "white": "#f7f7f7",
+                "black": "#000000",
+                "light grey": "#c8cfce"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/5/4593C-00X-003-1-737914.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/5/4593C-00X-003-1-737914.jpg",
+                "https://static.reserved.com/media/catalog/product/4/5/4593C-99X-002-1-737916.jpg",
+                "https://static.reserved.com/media/catalog/product/4/5/4593C-09X-001-1-737915.jpg"
+            ],
+            "date": "2023-06-27"
+        },
+        {
+            "id": 110,
+            "name": "Regular fit long sleeve T-shirt",
+            "price": 1999,
+            "colors": {
+                "cream": "#eef0e9",
+                "black": "#000000",
+                "dark grey": "#39333a",
+                "brown": "#81524b"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/2/7284H-01M-003-1-728218.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/2/7284H-01M-003-1-728218.jpg",
+                "https://static.reserved.com/media/catalog/product/7/2/7284H-99X-002-1-728221_2.jpg",
+                "https://static.reserved.com/media/catalog/product/7/2/7284H-90M-001-1-736129.jpg",
+                "https://static.reserved.com/media/catalog/product/7/2/7284H-98M-001-1-728220.jpg"
+            ],
+            "date": "2023-06-27"
+        },
+        {
+            "id": 111,
+            "name": "Cotton T-shirt",
+            "price": 1099,
+            "oldPrice": 1799,
+            "colors": {
+                "dark green": "#133d39",
+                "black": "#000000",
+                "light grey": "#c8cfce"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/7/7/7736H-79X-002-1-728223_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/7/7/7736H-79X-002-1-728223_2.jpg",
+                "https://static.reserved.com/media/catalog/product/7/7/7736H-99X-002-1-728224_2.jpg",
+                "https://static.reserved.com/media/catalog/product/7/7/7736H-09X-001-1-733634_3.jpg"
+            ],
+            "date": "2023-06-28"
+        },
+        {
+            "id": 112,
+            "name": "Merino wool long sleeve polo shirt",
+            "price": 4999,
+            "oldPrice": 6799,
+            "colors": {
+                "cream": "#eef0e9",
+                "black": "#000000"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "M",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/0/4051W-01X-001-1-719346_9.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/0/4051W-01X-001-1-719346_9.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4051W-01X-002-1-719346_9.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4051W-99X-001-1-719362_43.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4051W-99X-002-1-719362_43.jpg"
+            ],
+            "date": "2023-06-28"
+        },
+        {
+            "id": 113,
+            "name": "Check sherpa jacket",
+            "price": 6999,
+            "oldPrice": 8999,
+            "colors": {
+                "light grey": "#c8cfce"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/6/2602C-09P-001-1-730542_3.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/6/2602C-09P-001-1-730542_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/6/2602C-09P-003-1-730542_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/6/2602C-09P-002-1-730542_3.jpg"
+            ],
+            "date": "2023-06-29"
+        },
+        {
+            "id": 114,
+            "name": "Regular fit shirt",
+            "price": 3599,
+            "colors": {
+                "dark green": "#133d39",
+                "dark grey": "#39333a",
+                "navy": "#27355b",
+                "beige": "#ebd4c0"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/8/2852C-79X-001-1-727839_3.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/8/2852C-79X-001-1-727839_3.jpg",
+                "https://static.reserved.com/media/catalog/product/2/8/2852C-90X-001-1-730548_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/8/2852C-59X-001-1-730546_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/8/2852C-08X-001-1-728196_1.jpg"
+            ],
+            "date": "2023-06-29"
+        },
+        {
+            "id": 115,
+            "name": "Super slim fit shirt with stand up collar",
+            "price": 2999,
+            "colors": {
+                "beige": "#ebd4c0",
+                "black": "#000000",
+                "white": "#f7f7f7",
+                "brown": "#81524b"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/Z/U/ZU143-08X-003-1-739074_1.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/Z/U/ZU143-08X-003-1-739074_1.jpg",
+                "https://static.reserved.com/media/catalog/product/Z/U/ZU143-99X-010-1-707525.jpg",
+                "https://static.reserved.com/media/catalog/product/Z/U/ZU143-00X-010-1-707523.jpg",
+                "https://static.reserved.com/media/catalog/product/Z/U/ZU143-88X-002-1-739695_1.jpg"
+            ],
+            "date": "2023-07-01"
+        },
+        {
+            "id": 116,
+            "name": "Slim fit shirt",
+            "price": 2599,
+            "colors": {
+                "pale green": "#cbdad3",
+                "beige": "#ebd4c0",
+                "black": "#000000",
+                "white": "#f7f7f7",
+                "blue": "#1a9bdd",
+                "pink": "#f6dce2"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/8/4/8474H-07X-002-1-722627_4.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/8/4/8474H-07X-002-1-722627_4.jpg",
+                "https://static.reserved.com/media/catalog/product/8/4/8474H-08P-002-1-720544_3.jpg",
+                "https://static.reserved.com/media/catalog/product/8/4/8474H-99X-001-1-728226_3.jpg",
+                "https://static.reserved.com/media/catalog/product/8/4/8474H-00X-001-1-725608_3.jpg",
+                "https://static.reserved.com/media/catalog/product/8/4/8474H-55X-001-1-728225_5.jpg",
+                "https://static.reserved.com/media/catalog/product/8/4/8474H-30X-001-1-720545_1.jpg"
+            ],
+            "date": "2023-07-01"
+        },
+        {
+            "id": 117,
+            "name": "Hoodie",
+            "price": 3599,
+            "oldPrice": 4599,
+            "colors": {
+                "teal green": "#187273",
+                "black": "#000000",
+                "light grey": "#c8cfce"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/3/7/3753C-67X-001-1-726199_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/3/7/3753C-67X-001-1-726199_2.jpg",
+                "https://static.reserved.com/media/catalog/product/3/7/3753C-99X-001-1-726200_1.jpg",
+                "https://static.reserved.com/media/catalog/product/3/7/3753C-09X-001-1-726197_5.jpg"
+            ],
+            "date": "2023-07-01"
+        },
+        {
+            "id": 118,
+            "name": "Bomber sweatshirt",
+            "price": 5999,
+            "colors": {
+                "light grey": "#c8cfce"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/1/4122W-09X-002-1-731315.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/1/4122W-09X-002-1-731315.jpg",
+                "https://static.reserved.com/media/catalog/product/4/1/4122W-09X-001-1-731315.jpg",
+                "https://static.reserved.com/media/catalog/product/4/1/4122W-09X-010-1-727696_7.jpg"
+            ],
+            "date": "2023-07-03"
+        },
+        {
+            "id": 119,
+            "name": "Suit trousers",
+            "price": 4999,
+            "colors": {
+                "beige": "#ebd4c0",
+                "navy": "#27355b"
+            },
+            "category": "men",
+            "type":"Bottom",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/0/4044W-08X-002-1-718940_22.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/0/4044W-08X-002-1-718940_22.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4044W-08X-001-1-718940_22.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4044W-59X-002-1-719359_12.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4044W-59X-003-1-719359_12.jpg"
+            ],
+            "date": "2023-07-10"
+        },
+        {
+            "id": 120,
+            "name": "Blazer",
+            "price": 8999,
+            "colors": {
+                "beige": "#ebd4c0",
+                "navy": "#27355b"
+            },
+            "category": "men",
+            "type":"Coat",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/0/4043W-08X-001-1-718939_21.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/0/4043W-08X-001-1-718939_21.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4043W-08X-003-1-718939_21.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4043W-59X-003-1-719358_16.jpg",
+                "https://static.reserved.com/media/catalog/product/4/0/4043W-59X-002-1-719358_16.jpg"
+            ],
+            "date": "2023-07-10"
+        },
+        {
+            "id": 121,
+            "name": "Slim fit polo shirt",
+            "price": 1999,
+            "oldPrice": 2599,
+            "colors": {
+                "brown": "#81524b",
+                "white": "#f7f7f7",
+                "teal green": "#187273",
+                "blue": "#1a9bdd"
+            },
+            "category": "men",
+            "type":"Top",
+            "size": [
+                "S",
+                "M"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/4/7/4790C-98X-003-1-717993_13.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/4/7/4790C-98X-003-1-717993_13.jpg",
+                "https://static.reserved.com/media/catalog/product/4/7/4790C-00X-002-1-742543.jpg",
+                "https://static.reserved.com/media/catalog/product/4/7/4790C-67X-002-1-717992_12.jpg",
+                "https://static.reserved.com/media/catalog/product/4/7/4790C-50X-001-1-737919.jpg"
+            ],
+            "date": "2023-07-12"
+        },
+        {
+            "id": 122,
+            "name": "Regular jeans",
+            "price": 2999,
+            "oldPrice": 4599,
+            "colors": {
+                "black": "#000000",
+                "navy": "#27355b"
+            },
+            "category": "men",
+            "type":"Bottom",
+            "size": [
+                "S",
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/6/7/6773H-99J-001-1-713784_10.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/6/7/6773H-99J-001-1-713784_10.jpg",
+                "https://static.reserved.com/media/catalog/product/6/7/6773H-99J-002-1-713784_10.jpg",
+                "https://static.reserved.com/media/catalog/product/6/7/6773H-59J-001-1-739692_1.jpg",
+                "https://static.reserved.com/media/catalog/product/6/7/6773H-59J-004-1-739692_1.jpg"
+            ],
+            "date": "2023-06-29"
+        },
+        {
+            "id": 123,
+            "name": "Regular fit tracksuit bottoms",
+            "price": 2099,
+            "oldPrice": 4000,
+            "colors": {
+                "navy": "#27355b",
+                "black": "#000000",
+                "light grey": "#c8cfce",
+                "dark green": "#133d39"
+            },
+            "category": "men",
+            "type":"Bottom",
+            "size": [
+                "M",
+                "L"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/2/1/2156W-59X-001-1-725585.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/2/1/2156W-59X-001-1-725585.jpg",
+                "https://static.reserved.com/media/catalog/product/2/1/2156W-99X-001-1-725165_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/1/2156W-09M-002-1-725163_1.jpg",
+                "https://static.reserved.com/media/catalog/product/2/1/2156W-09X-001-1-725584.jpg",
+                "https://static.reserved.com/media/catalog/product/2/1/2156W-79X-001-1-725162_1.jpg"
+            ],
+            "date": "2023-06-15"
+        },
+        {
+            "id": 124,
+            "name": "Chino slim fit trousers",
+            "price": 3999,
+            "colors": {
+                "black": "#000000",
+                "beige": "#ebd4c0",
+                "blue": "#1a9bdd",
+                "brown": "#81524b"
+            },
+            "category": "men",
+            "type":"Bottom",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/5/5/5522L-99X-003-1-721093_2.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/5/5/5522L-99X-003-1-721093_2.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5522L-80X-001-1-721671_2.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5522L-95X-001-1-721674_2.jpg",
+                "https://static.reserved.com/media/catalog/product/5/5/5522L-84X-001-1-721091_1.jpg"
+            ],
+            "date": "2023-07-01"
+        },
+        {
+            "id": 125,
+            "name": "Slim joggers",
+            "price": 3599,
+            "colors": {
+                "brown": "#81524b",
+                "black": "#000000",
+                "beige": "#ebd4c0",
+                "dark grey": "#39333a"
+            },
+            "category": "men",
+            "type":"Bottom",
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "https://static.reserved.com/media/catalog/product/3/4/3488C-84X-003-1-726195_4.jpg",
+            "imagesForCarousel": [
+                "https://static.reserved.com/media/catalog/product/3/4/3488C-84X-003-1-726195_4.jpg",
+                "https://static.reserved.com/media/catalog/product/3/4/3488C-99X-002-1-726198_2.jpg",
+                "https://static.reserved.com/media/catalog/product/3/4/3488C-80X-001-1-726193_3.jpg",
+                "https://static.reserved.com/media/catalog/product/3/4/3488C-90M-001-1-726196_2.jpg"
+            ],
+            "date": "2023-10-15"
+        }
+    ]
+}

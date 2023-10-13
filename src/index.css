@@ -1,0 +1,150 @@
+:root {
+  --clr-background: white;
+  --clr-font: black;
+  --clr-very-light-grey:#f3f3f3;
+  --clr-old-price:#7e7e7e;;
+  --clr-light-grey: #8d8d8d;
+  --clr-dark-grey: #444;
+--clr-very-dark-grey:#111;
+  --clr-red: #ed1c24;
+  --clr-light-red:#fc4747;
+  --clr-green: #d4f1d3;
+  --white:white;
+  --black:black;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--clr-background);
+  color:var(--clr-font);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav,
+footer {
+  background: var(--black);
+  color: var(--white);
+}
+
+nav a,
+footer a,
+.icon {
+  cursor: pointer;
+  color: var(--white);
+  text-decoration: none;
+}
+
+nav ul a:hover,
+footer a:hover {
+  text-decoration: underline;
+}
+
+main {
+  min-height: 80vh;
+}
+.heading{
+  font-size: 1.8rem;
+}
+button{
+  cursor: pointer;
+  border:none;
+}
+.btn{
+  background: var(--black);
+  color:var(--white);
+}
+
+
+/* empty favorites and cart page */
+.empty-section{
+  min-height: 80vh;
+  padding: 3rem;
+  display: flex;
+  flex-wrap:wrap;
+  flex-direction: column;
+  gap:1rem;
+  align-items: center;
+  
+ }
+ .empty-section-text{
+  font-size:.9rem;
+  line-height:1.3;
+  text-align:center;
+ }
+ .empty-section-btn{
+  margin-top: 1rem;
+  font-size:1rem;
+  color: var(--white);
+  background: var(--black);
+  border:none;
+  padding:.5rem 1rem;
+ }
+
+ /* FAQ SHIPPING PRIVACY POLICY pages styling */
+ .faq-area{
+  color:var(--clr-dark-grey);
+  padding:3rem 2rem;
+}
+.faq-area span{
+  font-weight: 600;
+  line-height: 1.4;
+}
+.faq-area h5{
+font-size: 1rem;
+margin: 1.5rem 0;
+}
+.faq-area p{
+  line-height: 1.4;
+  margin: 1.5rem 0;
+}
+
+
+ @media (min-width:1000px) {
+  .empty-section h5{
+   font-size: 1.1rem;
+}
+   .empty-section-text{
+    font-size:1rem;
+   }
+   .empty-section-btn{
+    font-size:1.2rem;
+    padding:.5rem 1.5rem;
+   }
+ }
+
+
+
+
+ @media (prefers-color-scheme: dark) {
+  :root {
+    --clr-background: white;
+    --clr-font: black;
+    --clr-very-light-grey:#f3f3f3;
+    --clr-old-price:#b4b4b4;;
+    --clr-light-grey: #8d8d8d;
+    --clr-dark-grey: #bbbbbb;
+  --clr-very-dark-grey:#dfdfdf;
+    --clr-red: #f82f35;
+    --clr-light-red:#fc4747;
+    --clr-green: #dfffde;
+    --white:black;
+    --black:white;
+  }
+  body {
+      background-color: var(--clr-very-dark-grey);
+      color: var(--white);
+  }
+}
