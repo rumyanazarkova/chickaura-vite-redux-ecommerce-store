@@ -2,7 +2,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const dbFilePath = path.resolve(__dirname, '../../db.json');
+const dbFilePath = path.resolve(__dirname, 'db.json');
 
 export const handler = async (event) => {
   try {
@@ -29,7 +29,7 @@ export const handler = async (event) => {
       statusCode: 200,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'https://main--chickaura.netlify.app', 
+        'Access-Control-Allow-Origin': 'https://chickaura.netlify.app', 
         'Access-Control-Allow-Methods': 'GET',
       },
       body: JSON.stringify(responseData),
@@ -40,7 +40,7 @@ export const handler = async (event) => {
       statusCode: 500,
       headers: {
         'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': 'https://main--chickaura.netlify.app', 
+        'Access-Control-Allow-Origin': 'https://chickaura.netlify.app', 
         'Access-Control-Allow-Methods': 'GET',
       },
       body: JSON.stringify({ error: error.message }),
