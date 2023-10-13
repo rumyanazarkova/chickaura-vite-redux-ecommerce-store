@@ -2,12 +2,13 @@
 import fs from 'fs';
 import path from 'path';
 
+const dbFilePath = path.resolve(__dirname, '../../db.json');
 
 export const handler = async (event) => {
   try {
-    const data = JSON.parse(await fs.promises.readFile(path.resolve('D:\\Projects\\chickaura-vite-redux-ecommerce-store\\db.json'), 'utf8'));
-
- 
+  
+    const data = JSON.parse(await fs.promises.readFile(dbFilePath, 'utf8'));
+    
     const { section, id } = event.queryStringParameters;
 
     let responseData;
