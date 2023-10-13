@@ -2,23 +2,23 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 export const apiSlice = createApi({
     reducerPath: 'api', 
-    baseQuery: fetchBaseQuery({ baseUrl: 'http://localhost:3500' }),
+    baseQuery: fetchBaseQuery({ baseUrl: 'http://localhost:8888/.netlify/functions/db' }),
     tagTypes: ['Women','Men','Season Sale','SingleItem','Filtered'], 
     endpoints: builder => ({
         getWomen: builder.query({
-            query: () => '/women',
+            query: () => `/db?section=women`,
             providesTags: ['Women']
         }),
         getMen: builder.query({
-            query: () => '/men',
+            query: () => '/db?section=men',
             providesTags: ['Men']
         }),
         getSingleItem: builder.query({
-            query:({section,id})=>`/${section}/${id}`,
+            query: ({ section, id }) => `/db?section=${section}&id=${id}`,
             providesTags: ['SingleItem']
         }),
         getSeasonSale:builder.query({
-            query:()=>'/db',
+            query:()=>'/',
             providesTags:['Season Sale'],
             transformErrorResponse:(response)=>{
                 const combinedData=[
@@ -35,7 +35,7 @@ export const apiSlice = createApi({
             providesTags: ['Filtered']
         }),
         getProductsForHome:builder.query({
-            query:()=>'/db',
+            query:()=>'/',
             transformErrorResponse:(response)=>{
                 const combinedData=[
                     ...response.women,
