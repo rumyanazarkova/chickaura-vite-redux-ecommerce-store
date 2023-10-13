@@ -7,7 +7,6 @@ export const handler = async (event) => {
   try {
     console.log(`Attempting to read from path: ${dbFilePath}`);
     
-    // Check if the file exists at the specified path
     if (!fs.existsSync(dbFilePath)) {
       console.error(`File does not exist at path: ${dbFilePath}`);
       throw new Error('File not found');

@@ -1,6 +1,7 @@
 
 import styled from 'styled-components';
 import React, { useEffect } from 'react';
+import iconPoi from '../assets/poi-black-custom.png'
 
 function StoreLocator() {
   useEffect(() => {
@@ -21,7 +22,7 @@ function StoreLocator() {
 
       storeLocations.forEach(store => {
         var pushpin = new window.Microsoft.Maps.Pushpin(store.location, {
-          icon: '../public/poi-black-custom.png',
+          icon: iconPoi,
           title: store.name,
           subTitle: store.address,
           text: 'C'
