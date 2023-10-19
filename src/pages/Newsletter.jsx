@@ -52,9 +52,11 @@ const Wrapper=styled.main`
   .email-input{
    width:100%;
    display: flex;
-   padding-bottom: 1rem;
+   padding:1rem 0;
    border: none;
    border-bottom: 1px solid var(--clr-light-grey);
+   background:transparent;
+   color:var(--black);
   }
   p{
     font-size: .9rem;
@@ -71,8 +73,8 @@ p a{
    
   }
   button{
-    background: black;
-    color:white;
+    background: var(--black);
+    color:var(--white);
     margin:0 auto;
     font-size:1.3rem;
     padding:.7rem 2rem;
@@ -91,7 +93,6 @@ p a{
     font-size: 1.2rem;
   }
   }
-
 
 `
 export default Newsletter

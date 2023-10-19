@@ -51,13 +51,13 @@ const Navbar = ({ loginWithRedirect,logout, user }) => {
           </div>
           <div className='icon'>
             <IoHeartOutline onClick={() => navigate('/favorites')} />
-            <span className='value'>{favorites}</span>
+            <span className='value'> {favorites || 0}</span>
           </div>
           <div
             className='icon'
           >
             <IoBagOutline onClick={() => navigate('/cart')} />
-            <span className='value'>{cartItems}</span>
+            <span className='value'>{cartItems || 0}</span>
           </div>
         </ul>
       </section>
@@ -92,7 +92,7 @@ nav{
   .help-btn{
     display:none;
     gap:.3rem;
-    color:white;
+    color:var(--white);
     background: transparent;
     border:none;
     font-size: 1.1rem;
@@ -106,12 +106,13 @@ nav{
     display: flex;
     flex-direction: column;
     cursor:pointer;
+    font-weight:500;
   }
   .hamburger button{
     display: flex;
     border:none;
     background: transparent;
-    color:white;
+    color:var(--white);
     font-size: 2rem;
     place-items:center;
     padding:0;
@@ -123,12 +124,12 @@ nav{
   .icon-links{
     display: flex;
     align-items: center;
-    gap:.5rem;
-    font-size:1.5rem;
+    gap:.3rem;
+    font-size:1.3rem;
   }
   .value{
-    font-size:1rem;
-    margin-left:.2rem;
+    font-size:.7rem;
+     margin-left:.1rem; 
   }
   .nav-links{
     display: none;
@@ -136,6 +137,7 @@ nav{
     gap:1.5rem;
     align-items:center;
     padding:0 5rem .9em 5rem;
+    font-weight: 500;
   }
   ul.nav-links > :first-child{
     color: var(--clr-light-red);
@@ -150,6 +152,18 @@ nav{
   }
   .icon:hover .dropdown-content {
     display: block;
+  }
+  @media (min-width:400px) {
+    .icon-links{
+    display: flex;
+    align-items: center;
+    gap:.3rem;
+    font-size:1.5rem;
+  }
+  .value{
+    font-size:.9rem;
+     margin-left:.1rem; 
+  }
   }
 
   @media (min-width:1000px) {

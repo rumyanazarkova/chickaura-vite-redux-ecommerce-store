@@ -38,7 +38,7 @@ const Wrapper=styled.section`
     font-weight: 500;
 
 a{
-color:var(--clr-dark-gray);
+color:var(--clr-dark-grey);
  text-decoration:none;
  cursor: pointer;
 }
@@ -69,8 +69,9 @@ color:var(--clr-dark-gray);
    flex-wrap:wrap;
    flex-direction: column;
    align-items: center;
+   text-align:center;
    gap:1.6rem;
-   padding: 2rem 0;
+   padding: 2rem 1rem;
 }
 @media (min-width: 1000px) {
     display: none;

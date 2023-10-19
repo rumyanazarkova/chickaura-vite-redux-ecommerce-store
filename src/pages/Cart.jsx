@@ -199,6 +199,12 @@ grid-template-columns:1fr 1fr;
   padding:2rem;
 }
 }
+@media (prefers-color-scheme: dark) {
+  .remove-btn{
+    color:white;
+  }
+ 
+}
 
 `
 

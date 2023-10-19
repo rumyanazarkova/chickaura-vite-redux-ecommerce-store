@@ -83,6 +83,9 @@ h5{
   'one three four'
   'two three four';
 }
+@media (prefers-color-scheme: dark) {
+font-weight:500;
+}
 
 `
 export default Footer

@@ -178,14 +178,14 @@ display:grid;
   width: 1.2rem;
   height: 1.2rem;
   border-radius:50%;
-
+   border: 1px solid var(--clr-light-grey); 
  }
  .color-active{
   width: 1.2rem;
   height: 1.2rem;
   border-radius:50%;
-  border: 3px solid var(--white); 
-  outline: 1px solid var(--black);
+  border: 4px solid var(--white); 
+  outline: 3px solid var(--black);
  }
  .color-text{
   display:flex;
@@ -195,11 +195,13 @@ display:grid;
   background:var(--white);
   padding: .7rem 1rem;
   border: 1px solid #bebebe;
+  color: var(--black);
 }
 .size-btn-active{
   background:var(--white);
   padding: .7rem 1rem;
-  border: 2px solid var(--black);
+  border: 3px solid var(--black);
+  color: var(--black);
 } 
 .name-price,
 .color-size
@@ -299,6 +301,7 @@ display:grid;
   font-size:1.2rem;
 }  
 }
+
 
 `
 

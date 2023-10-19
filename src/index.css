@@ -126,8 +126,6 @@ margin: 1.5rem 0;
  }
 
 
-
-
  @media (prefers-color-scheme: dark) {
   :root {
     --clr-background: white;
@@ -135,7 +133,6 @@ margin: 1.5rem 0;
     --clr-very-light-grey:#f3f3f3;
     --clr-old-price:#b4b4b4;;
     --clr-light-grey: #8d8d8d;
-    --clr-dark-grey: #bbbbbb;
   --clr-very-dark-grey:#dfdfdf;
     --clr-red: #f82f35;
     --clr-light-red:#fc4747;
@@ -144,7 +141,11 @@ margin: 1.5rem 0;
     --black:white;
   }
   body {
-      background-color: var(--clr-very-dark-grey);
-      color: var(--white);
+      background-color: black;
+      color: white;
   }
+  .faq-area{
+    color:white;
+  }
+  
 }

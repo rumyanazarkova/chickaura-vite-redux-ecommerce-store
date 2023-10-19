@@ -192,13 +192,14 @@ const Wrapper = styled.article`
   width: 1rem;
   height: 1rem;
   border-radius:50%;
+  border:1px solid var(--clr-light-grey);
  }
  .color-active{
   width: 1rem;
   height: 1rem;
   border-radius:50%;
   border: 3px solid var(--white); 
-  outline: 1px solid var(--black);
+  outline: 2px solid var(--black);
  }
  .size{
   padding: .2rem;

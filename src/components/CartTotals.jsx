@@ -86,6 +86,7 @@ const Wrapper = styled.section`
         text-align: center;
         font-size: .9rem;
         font-weight: 500;
+        color:black;
     }
     .pricing{
         margin-top:1rem;
@@ -115,7 +116,7 @@ const Wrapper = styled.section`
         place-content:center;
         padding:.8rem 0;
         font-size:1.2rem;
-        text-decoration: none;       
+        text-decoration: none;  
     }
    
     .coupon{
@@ -125,6 +126,7 @@ const Wrapper = styled.section`
     .coupon label{
         font-size: .8rem;
         font-weight: 600;
+        color:black;
     }
     .input-submit{
         display: flex;
@@ -136,7 +138,7 @@ const Wrapper = styled.section`
         border-bottom: 1px solid var(--clr-light-grey);
     }
     .coupon-btn{
-        border:3px solid var(--black);
+        border:3px solid black;
         padding:.5rem 2rem;
         font-weight: 600;
     }
@@ -163,7 +165,7 @@ const Wrapper = styled.section`
         font-weight:700;
     }
     .info-icon{
-        color: var(--black);
+        color: black;
         font-size: 1.5rem;
     }
     .info-logo-icon-span{
@@ -191,7 +193,6 @@ const Wrapper = styled.section`
         width:100%;    
         position: static;
 }
-
 
 }
 

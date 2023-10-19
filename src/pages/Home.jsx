@@ -55,17 +55,17 @@ const Wrapper = styled.main`
   .image-btn{
     position: absolute;
     top:70%;
-    color:var(--black);
-    background:var(--white);
+    color:black;
+    background:white;
     padding:.5rem 1rem;
     font-size: 1.2rem;  
     font-weight: 600;
   }  
   .her{
-    left:25%;
+    left:15%;
   }
   .him{
-    right:25%;
+    right:15%;
   }
   .newsletter {
     display: flex;
@@ -87,13 +87,19 @@ const Wrapper = styled.main`
    text-align: center;
   }
   }
+  @media (min-width:500px) { 
+  .her{
+    left:25%;
+  }
+  .him{
+    right:25%;
+  }
+  }
 
 @media (min-width: 1200px) {
   .image-btn{
     position: absolute;
     top:55%;
-    color:var(--black);
-    background:var(--white);
     padding:1rem 2rem;
     font-size: 1.5rem;  
     font-weight: 600;

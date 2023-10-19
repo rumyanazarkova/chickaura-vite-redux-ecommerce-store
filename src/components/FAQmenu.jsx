@@ -35,6 +35,7 @@ const Wrapper= styled.article`
     margin-bottom:1rem;
     font-size:1.5rem;
     font-weight: 600;  
+    color:black;
   }
   .icon-question{
     display: flex;
@@ -52,7 +53,7 @@ const Wrapper= styled.article`
     gap:.2rem;
     text-decoration: none;
     font-weight: 500;
-    color:inherit;
+    color:black;
   }
   .links span{
    display: flex;
@@ -61,7 +62,7 @@ const Wrapper= styled.article`
   }
   .links a:hover,
   .links a:active{
-    color:var(--black);
+    color:black;
     font-weight: 600;
   }
 
